@@ -1,6 +1,0 @@
-@PZL.TestApi_HostAddress = http://localhost:5177
-
-GET {{PZL.TestApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
