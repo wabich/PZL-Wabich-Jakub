@@ -15,3 +15,4 @@ Jakub Wabich
 
 ## Status
 Etap: konfiguracja środowiska i repozytorium
+
